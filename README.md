@@ -1,6 +1,6 @@
 # Ogram
 We made a funny R package!
-No idea if this is going to work.
+No idea if this is going to work
 :)
 
 
